@@ -1,0 +1,26 @@
+.app-header{
+    display: flex;
+    padding-bottom: 15px;
+}
+
+.app-header--logo{
+    padding: 20px;
+    float: left;
+    max-width: 80px;
+    height: auto;
+}
+
+.head1{
+    width: 10%;
+    text-align: center;
+}
+
+.head2{
+    width:max-content;
+}
+
+.banniere{
+    width: 900px;
+    height: 250px;
+    margin-top: 10px;
+}

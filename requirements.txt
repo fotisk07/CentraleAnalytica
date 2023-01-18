@@ -1,0 +1,13 @@
+beautifulsoup4==4.11.1
+dash==2.7.0
+dash_daq==0.5.0
+matplotlib==3.5.1
+NRCLex==3.0.0
+numpy==1.21.5
+pandas==1.4.2
+Pillow==9.3.0
+plotly==5.6.0
+requests==2.27.1
+textblob==0.17.1
+tweepy==4.12.1
+wordcloud==1.8.2.2

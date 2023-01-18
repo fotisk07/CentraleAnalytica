@@ -1,0 +1,64 @@
+body{
+    background-color: #11171F;
+    color: white;
+}
+
+.page{
+    background-color: #11171F;
+}
+.flex{
+    display: flex;
+}
+
+.box{
+    border:solid black 1px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #2E3540;
+}
+
+.big-box{
+    height:auto;
+}
+
+.graph{
+    width: 48%;
+}
+
+.top{
+    float: top;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float:left;
+}
+
+.bottom{
+    float:bottom;
+}
+
+.image1{
+    height: 100%;
+    width: 100%;
+}
+.image2{
+    height: 100%;
+    width: 100%;
+}
+
+.center{
+    text-align: center;
+}
+
+.input{
+    margin-left: 10px;
+}
+
+.checkbox{
+    margin-top: 50px;
+}
